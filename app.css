@@ -1,0 +1,12 @@
+h1 {
+    font-size: 15rem;
+}
+
+.letter {
+    transition: color 500;
+
+}
+
+body {
+    background-color: lightpink;
+}
