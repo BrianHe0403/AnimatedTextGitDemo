@@ -1,5 +1,5 @@
 h1 {
-    font-size: 15rem;
+    font-size: 20rem;
 }
 
 .letter {
@@ -12,5 +12,5 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(181, 13, 181);
+    background-color: olive;
 }
